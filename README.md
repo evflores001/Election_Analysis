@@ -29,7 +29,7 @@ The analysis of our results show that:
 - The results of the winning candidate
     - Diane Degette won the election by popular vote with 272,892 votes, 73.8% of the total number of votes
     
-We can see the results from the following image obtained from the election_results.txt file:
+We can see the results from the following [screenshot](https://github.com/evflores001/Election_Analysis/blob/master/analysis/election_terminal_output.png) when the program us run through the terminal.
 
 ## Summary
 The results obtained from our Python program allowed us to complete the election audit fairly easy without having to manually iterate through each row of the election_results.csv file. Although our code was able to tackle this fairly large CSV file, with some modifications we could increase its ability to handle multiple files as well as give us more insight into vote allocation from each county. Using Python's merge functions, we could merge multiple CSV files, which would allow us to audit larger elections. Using a combination of dual alternative decision statements, condition controlled loops and logical operators, we could keep track of the number of votes and percentages of votes each county allocated to each candidate, giving us a breakdown of how each candidate fared within each county. 
